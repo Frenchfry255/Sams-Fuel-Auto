@@ -843,7 +843,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 #featured-title #breadcrumbs .breadcrumbs-inner:after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index: -1; border-style: solid; border-width: 0px; }
 #featured-title #breadcrumbs .breadcrumbs-inner { z-index: 1; position: relative; display: inline-block; }
 #featured-title #breadcrumbs a { color: #999; }
-#featured-title #breadcrumbs a:hover { color: #1a7dd7; }
+#featured-title #breadcrumbs a:hover { color: #A90000; }
 #featured-title #breadcrumbs .sep { padding: 0 2px; color: #dbdbdb; }
 
 /* Featured Title other styles */
