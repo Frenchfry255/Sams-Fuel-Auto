@@ -552,9 +552,9 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 /* Top Bar
 -------------------------------------------------------------- */
-#top-bar { font-size: 0.928em; position: relative; z-index: 1; background-color: #f0f0f0; }
+#top-bar { font-size: 0.928em; position: relative; z-index: 1; background-color: transparent; }
 #top-bar,
-#top-bar a { color: #A90000; }
+#top-bar a { color: #dbdbdb; }
 #top-bar a:hover { text-decoration: underline; }
 #top-bar-inner { padding: 6px 0; }
 #top-bar .top-bar-inner-wrap { display: table; overflow: hidden; width: 100%; }
