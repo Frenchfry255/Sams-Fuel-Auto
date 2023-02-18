@@ -805,10 +805,10 @@
  #main-nav-mobi ul ul ul li { background-color: #292929; }
  
  /* Mobile Menu Button */
- .mobile-button { width: 26px; height: 26px; display: none; float: right; position: absolute; top: 50%; right: 0; -webkit-transform: translate3d(0,-50%,0); -moz-transform: translate3d(0,-50%,0); transform: translate3d(0,-50%,0); background: transparent; cursor: pointer; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
+ .mobile-button { width: 26px; height: 26px; display: none; float: right; position: absolute; top: 50%; right: 0; -webkit-transform: translate3d(0,-50%,0); -moz-transform: translate3d(0,-50%,0); transform: translate3d(0,-50%,0); background: #FFFFFF; cursor: pointer; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
  .mobile-button:before,
  .mobile-button:after, 
- .mobile-button span { background-color: #333; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
+ .mobile-button span { background-color: #FFFFFF; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
  .mobile-button:before,
  .mobile-button:after { content: ''; position: absolute; top: 0; height: 3px; width: 100%; left: 0; top: 50%; -webkit-transform-origin: 50% 50%; -ms-transform-origin: 50% 50%; transform-origin: 50% 50%; }
  .mobile-button span { position: absolute; width: 100%; height: 3px; left: 0; top: 50%; overflow: hidden; text-indent: 200%; }
