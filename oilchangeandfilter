@@ -57,7 +57,7 @@
             </div>
         </div><!-- /#top-bar -->
 
- <!-- Header -->
+		<!-- Header -->
         <header id="site-header">
             <div id="site-header-inner" class="wprt-container">
                 <div class="wrap-inner">
@@ -100,7 +100,8 @@
         </header><!-- /#site-header -->
     </div><!-- #site-header-wrap -->
 
-  <!-- Main Content -->
+
+	<!-- Main Content -->
     <div id="main-content" class="site-main clearfix">
         <div id="content-wrap">
             <div id="site-content" class="site-content clearfix">
@@ -195,7 +196,8 @@
         </div><!-- /#content-wrap -->
     </div><!-- /#main-content -->
 
- <!-- Footer -->
+
+	<!-- Footer -->
     <footer id="footer">
         <div id="footer-widgets" class="wprt-container title-style-1">
             <div class="wprt-row gutter-30">
