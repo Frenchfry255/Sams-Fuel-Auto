@@ -565,14 +565,14 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 /* Top Bar Content */
 #top-bar .top-bar-content .content { position: relative; display: inline-block; margin-right: 23px; padding-left: 23px; }
 #top-bar .top-bar-content .content:last-child { margin-right: 0; }
-#top-bar .top-bar-content .content:before { font-size: 14px; color: #c3c3c3; font-family: "wprticons"; position: absolute; left: 0; left: 1px; top: -2px; width: 20px; height: 20px; content: ""; }
+#top-bar .top-bar-content .content:before { font-size: 14px; color: #ffffff; font-family: "wprticons"; position: absolute; left: 0; left: 1px; top: -2px; width: 20px; height: 20px; content: ""; }
 #top-bar .top-bar-content .content.welcome:before { content: "\e934"; }
 #top-bar .top-bar-content .content.time:before { content: "\e823"; }
 #top-bar .top-bar-content .content.phone:before { content: "\e843"; }
 #top-bar .top-bar-content .content.address:before { content: "\e92f"; }
 
 /* Top Bar Socials */
-#top-bar .top-bar-socials .icons a { position: relative; z-index: 1; font-size: 13px; color: #c3c3c3; background-color: #fff; border-radius: 14px; width: 28px; height: 28px; margin-left: 2px; line-height: 28px; text-align: center; display: inline-block; }
+#top-bar .top-bar-socials .icons a { position: relative; z-index: 1; font-size: 13px; color: #ffffff; background-color: #000000; border-radius: 14px; width: 28px; height: 28px; margin-left: 2px; line-height: 28px; text-align: center; display: inline-block; }
 #top-bar .top-bar-socials .icons a:hover { text-decoration: none; background-color: #A90000; color: #fff; }
 #top-bar .top-bar-socials .icons a:last-child { margin-right: 0; }
 
